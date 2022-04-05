@@ -1,0 +1,100 @@
+id: ae25aa8cfc3a42649995fb8aca238243
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e0f988166bdf4a23b0619d7f74dc3e2b:
+    span:
+      start: 81
+      end: 1590
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPCD93C0B074A332DA
+  5ed9dc8083bf455c8dfc66b332a5013b:
+    span:
+      start: 0
+      end: 79
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP26C7003399A9B4A8
+  ac046f20e4a044eeb2f5385d25b94abd:
+    span:
+      start: 3103
+      end: 4526
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP46558792BFB11DC7
+  129681ea6ae44532b1eee3ffd51e7c4b:
+    span:
+      start: 1592
+      end: 3101
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP4B31763117799C15
+  dd05877976dc456c9eea52670e7c5cc8:
+    span:
+      start: 10352
+      end: 11775
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP3D005522E3732F37
+  96696849168e48589c45a5336eff5187:
+    span:
+      start: 14656
+      end: 15323
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPC54919113438697F
+  038916695a8a464589402616b58a5ef7:
+    span:
+      start: 7488
+      end: 8911
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP14EBF9E03ABA2BDF
+  982d4ac3400343408346b300af5586a5:
+    span:
+      start: 4528
+      end: 5941
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP4289D648EEBF022C
+  54984fcd7c0246dca39c45272f7861ba:
+    span:
+      start: 13200
+      end: 14654
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP49FAA2E6045E921C
+  606924c963ff421791ea6068d9096a90:
+    span:
+      start: 5943
+      end: 7486
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP260AE61D915D4ED5
+  5b3c09b8294b449693e777b64f04013d:
+    span:
+      start: 8913
+      end: 10350
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP216523DBEC3677FF
+  711b4054c7584acca506e080cebc0c26:
+    span:
+      start: 11777
+      end: 13198
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP4CD203B6FBC1CA42
